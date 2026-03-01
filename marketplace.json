@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "aios-core",
+      "description": "AIOS Core - AI Operating System with 12 specialized agents for full software development lifecycle",
+      "path": "."
+    }
+  ]
+}

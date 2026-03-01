@@ -1,0 +1,8 @@
+{
+  "name": "aios-core",
+  "description": "AIOS Core - AI Operating System with 12 specialized agents for full software development lifecycle. Agents cover development, architecture, QA, DevOps, product management, UX design, data engineering, and more. Each agent has distinct expertise, authority boundaries, and collaboration protocols.",
+  "version": "4.4.6",
+  "author": {
+    "name": "SpoonLauncher"
+  }
+}
