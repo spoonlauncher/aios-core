@@ -12,7 +12,7 @@
       "author": {
         "name": "SpoonLauncher"
       },
-      "source": ".",
+      "source": "./plugins/aios-core",
       "category": "development",
       "homepage": "https://github.com/spoonlauncher/aios-core"
     }
